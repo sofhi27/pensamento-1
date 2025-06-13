@@ -1,5 +1,38 @@
+<body>
+<header>ALURAFLIX</header>
+<h1> a noiva cadáver é o melhor filme do tim burton? </h1> 
+<p>#noiva cadáver</p>
 
+    <iframe width="560" height="315" src=" <iframe width="560" height="315" src="https://www.youtube.com/embed/Ln73lCq1SgM?si=WNMbTLV1B0nSOkkR&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</body>
+<html lang="pt-BR">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Aluraflix</title>
+</head>
 
-ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?
-#homem-aranha 
+<body>
+    <header>ALURAFLIX</header>
+
+    <section>
+
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+</body>
+
+</html>
+body {
+    color: white;
+    background: black;
+}
+
+header {
+
+}
